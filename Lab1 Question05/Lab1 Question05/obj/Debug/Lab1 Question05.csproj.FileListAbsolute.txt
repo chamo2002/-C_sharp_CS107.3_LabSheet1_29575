@@ -1,0 +1,7 @@
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 1\Lab1 Question05\Lab1 Question05\obj\Debug\Lab1 Question05.csproj.AssemblyReference.cache
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 1\Lab1 Question05\Lab1 Question05\obj\Debug\Lab1 Question05.csproj.CoreCompileInputs.cache
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 1\Lab1 Question05\Lab1 Question05\bin\Debug\Lab1 Question05.exe.config
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 1\Lab1 Question05\Lab1 Question05\bin\Debug\Lab1 Question05.exe
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 1\Lab1 Question05\Lab1 Question05\bin\Debug\Lab1 Question05.pdb
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 1\Lab1 Question05\Lab1 Question05\obj\Debug\Lab1 Question05.exe
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 1\Lab1 Question05\Lab1 Question05\obj\Debug\Lab1 Question05.pdb
